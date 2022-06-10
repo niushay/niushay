@@ -7,7 +7,6 @@
   <em>
     Back-end Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </br>
-    Mechanical Engineer at <a href="https://ut.ac.ir/en">University of Tehran</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </em>
 </p>
 
