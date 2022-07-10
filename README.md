@@ -5,7 +5,7 @@
 
 <p>
   <em>
-    Back-end Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </br>
   </em>
 </p>
