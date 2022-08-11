@@ -10,6 +10,7 @@
   </em>
 </p>
 
+<br />
 
 #### My Professional skills 🎓
 
