@@ -13,8 +13,8 @@
 
 #### My Professional skills 🎓
 
-|![](https://img.shields.io/badge/php-%23777BB4.svg?plastic&logo=php&logoColor=white&labelColor=grey)|![](https://img.shields.io/badge/vuejs-%2335495e.svg?plastic&logo=vuejs&logoColor=white&labelColor=%234FC08D)|![](https://img.shields.io/badge/laravel-%23FF2D20.svg?plastic&logo=laravel&logoColor=white&labelColor=inactive)|![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?plastic&logo=bootstrap&logoColor=white)|![](https://img.shields.io/badge/jquery-%230769AD.svg?plastic&logo=jquery&logoColor=white&labelColor=9cf)|
-|---|---|---|---|---|
+|![](https://img.shields.io/badge/php-%23777BB4.svg?plastic&logo=php&logoColor=white&labelColor=grey)|![](https://img.shields.io/badge/react-%230769AD.svg?plastic&logo=react&logoColor=white&labelColor=informational)|![](https://img.shields.io/badge/docker-%2335495e.svg?plastic&logo=docker&logoColor=white&labelColor=%234FC08D)|![](https://img.shields.io/badge/laravel-%23FF2D20.svg?plastic&logo=laravel&logoColor=white&labelColor=inactive)|![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?plastic&logo=bootstrap&logoColor=white)|![](https://img.shields.io/badge/jquery-%230769AD.svg?plastic&logo=jquery&logoColor=white&labelColor=9cf)|![](https://img.shields.io/badge/linux-%2335495e.svg?plastic&logo=linux&logoColor=white&labelColor=yellow)
+|---|---|---|---|---|---|---|
 
 <br />
 <br />
