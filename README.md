@@ -10,6 +10,11 @@
   </em>
 </p>
 
+<p>I love technology, I like being updated and studying new technologies every day.</p>
+</br>
+<p> This is not about the specific framework or programming language, I like learning new frameworks and languages as well.
+There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very excited.</p>
+
 <br />
 
 #### My Professional skills 🎓
