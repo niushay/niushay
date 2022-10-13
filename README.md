@@ -32,9 +32,6 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
  </a>
 
- <a href="https://www.instagram.com/niusha_yousefi/" target="_blank">
-  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="45" height="45"/>
- </a>
  
  <a href="https://mail.google.com/mail/u/0/?fs=1&to=niushayousefi73@gmail.com&tf=cm" target="_blank">
    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest?cb=20201214214241" width="45" height="45"/>
