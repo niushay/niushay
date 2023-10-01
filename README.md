@@ -16,6 +16,10 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
 
 - Collaborated with companies in Iran, Turkey, and Canada on various projects.
 - Passionate about learning and staying up-to-date with the latest technologies.
+<br />
+<br />
+
+  
 
 ### My Professional skills 🎓
 
