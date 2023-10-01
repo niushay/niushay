@@ -11,12 +11,6 @@
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very excited.</p>
 
 <br />
-
-### Professional Experience
-
-- Collaborated with companies in Iran, Turkey, and Canada on various projects.
-- Passionate about learning and staying up-to-date with the latest technologies.
-<br />
 <br />
 
   
