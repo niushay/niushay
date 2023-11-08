@@ -25,11 +25,11 @@
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-## Frontend Technologies
+## Frontend Technologies 🎓
 
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,vue,bootstrap)](https://skillicons.dev)
 
-## DevOps Tools
+## DevOps Tools 🎓
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform)](https://skillicons.dev)
 
 ---
